@@ -1,0 +1,5 @@
+C:\Users\swebber\Source\Repos\LoadWinIO\LoadWinIO\bin\Debug\LoadWinIO.exe
+C:\Users\swebber\Source\Repos\LoadWinIO\LoadWinIO\bin\Debug\LoadWinIO.pdb
+C:\Users\swebber\Source\Repos\LoadWinIO\LoadWinIO\obj\Debug\LoadWinIO.csprojResolveAssemblyReference.cache
+C:\Users\swebber\Source\Repos\LoadWinIO\LoadWinIO\obj\Debug\LoadWinIO.exe
+C:\Users\swebber\Source\Repos\LoadWinIO\LoadWinIO\obj\Debug\LoadWinIO.pdb
