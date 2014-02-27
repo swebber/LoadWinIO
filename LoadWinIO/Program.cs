@@ -8,6 +8,10 @@ namespace LoadWinIO
     {
         static void Main(string[] args)
         {
+            var p = new IOPortAccess();
+
+            Console.WriteLine("Press any key to continue ...");
+            Console.ReadKey();
         }
     }
 }
